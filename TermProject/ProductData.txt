@@ -1,0 +1,7 @@
+t-shirt M 30000
+turtle_neck L 50000
+sneakers 270 95000
+blue-jeans 30 75000
+sweat_shirt 110 36000
+slacks 33 65000
+coat 100 200000
